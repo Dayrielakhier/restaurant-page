@@ -1,6 +1,6 @@
-import steak from "./pexels-hasan-kurt-154798938-10749578.jpg"
-import food from "./pexels-cottonbro-4253320.jpg"
-import table from "./say-s-bRihwX_BU1E-unsplash.jpg"
+import steak from "./assets/pexels-hasan-kurt-154798938-10749578.jpg"
+import food from "./assets/pexels-cottonbro-4253320.jpg"
+import table from "./assets/say-s-bRihwX_BU1E-unsplash.jpg"
 
 const content = document.querySelector("#content")
 
